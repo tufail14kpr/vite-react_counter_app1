@@ -11,6 +11,7 @@ function App() {
       <h1>React course learn with hitesh</h1>
       <h2>counter value:</h2>
       <button>Add value</button>
+      <button>Subtract value</button>
     </>
   )
 }
